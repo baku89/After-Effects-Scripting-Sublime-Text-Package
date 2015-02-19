@@ -48,7 +48,7 @@ Go `Sublime Text > Preferences > Settings - User` and add following attributes.
 ```
 {
 	...
-	"build": {
+	"build_env": {
 		"AE_VERSION": "CC 2014",
 		"AE_SUBDIR": "User"
 	}
